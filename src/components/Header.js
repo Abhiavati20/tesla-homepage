@@ -6,6 +6,7 @@ function Header() {
         <div className="header">
             <div className="header__logo">
                 <img src={TeslaLogo} alt="Tesla Logo"/>
+                <h6 style={{fontSize:5}}>Built by Abhishek Avati</h6>
             </div>
             <div className="header__center">
                 <p>Mode S</p>
